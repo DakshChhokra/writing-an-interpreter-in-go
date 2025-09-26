@@ -1,0 +1,10 @@
+
+# go binary name
+**/monkey
+!**/monkey/
+
+# macOS specific files
+.DS_Store
+
+# misclleanous go stuff
+/pkg/
